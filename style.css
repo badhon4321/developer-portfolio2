@@ -1,10 +1,53 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
 }
 
 .kacu-macu{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    text-align: left;
+    width: 350%;
+    padding-left:4%;
+}
+.adu-vadu{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border: 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+section{
+    margin-bottom: 100px;
+}
+.dreamm-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border: 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.amar-bari{
     color: orange;
 }
